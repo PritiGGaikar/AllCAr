@@ -1,0 +1,468 @@
+We will divide this post into Following section
+
+1- Download Jenkins
+
+2- Configure Jenkins for Running Build
+
+3- Execute Selenium build using Jenkins
+
+4- Schedule Jobs in Jenkins to run periodically
+
+
+
+
+Part 1- Download Jenkins
+
+Step 1-  Open your web browser and then Navigate to Below URL
+http://jenkins-ci.org  this is the official website of Jenkins
+
+Note- Below post will only work if you work with 1.6 version you can download from below url.
+
+(Download 1.654)
+
+https://updates.jenkins-ci.org/download/war/
+Step 2- Now download Jenkins.war file and save into desktop or any other location depends on your choice
+
+Step 3- Once download complete. You will get Jenkins.war file that we need to execute
+Part 2-How to configure Jenkins for Selenium
+
+Go to the location where Jenkins.war is available. In my case, I kept in my project home directory
+Step 2- Open Command prompt knows as CMD   and navigate to project home directory and Start Jenkins server
+
+Start- cmd> Project_home_Directory> java -jar Jenkins.war
+
+
+Step 3-
+
+Once Jenkins server is up and running, you will get above success message.
+By default Jenkins runs on 8080 port so you can navigate to below URL for Jenkins UI
+Open any browser and type the URL  http://localhost:8080 
+
+Now Jenkins in up and running so now we have to configure Jenkins so that we can execute our test case via Jenkins.
+
+Step 4-
+
+Once Jenkins is running so we are almost done but before moving to create build we need to configure Jenkins so that Jenkins can identify other tools as well like Java, Maven etc.
+
+Click on > Manage Jenkins
+
+HOMEADVANCE SELENIUMCONTINUOUS INTEGRATION TOOLComplete Guide For Selenium Integration With Jenkins Maven
+Complete Guide for Selenium integration with jenkins Maven
+
+ 
+Jenkins is CI (Continuous Integration) tool which will help you to run test in easy manner, In this post, we will talk about Selenium integration with Jenkins and different usage of the same.
+
+Before starting if you have Eclipse , TestNG and if you are using Excel sheets or CSV File, then these jars should be ready.
+
+ 
+
+Selenium integration with Jenkins using Plain Java project
+
+
+
+ 
+
+ 
+
+   If you are using Maven project and if you want to run maven project using Jenkins then some process will change.
+
+Selenium Integration with Jenkins using Maven project
+
+
+
+We will divide this post into Following section
+
+1- Download Jenkins
+
+2- Configure Jenkins for Running Build
+
+3- Execute Selenium build using Jenkins
+
+4- Schedule Jobs in Jenkins to run periodically
+
+Selenium integration with Jenkins
+
+Part 1- Download Jenkins
+
+Step 1-  Open your web browser and then Navigate to Below URL
+http://jenkins-ci.org  this is the official website of Jenkins
+
+Note- Below post will only work if you work with 1.6 version you can download from below url.
+
+(Download 1.654)
+
+https://updates.jenkins-ci.org/download/war/
+Step 2- Now download Jenkins.war file and save into desktop or any other location depends on your choice
+
+Selenium integration with jenkins
+Run Selenium with Jenkins
+Step 3- Once download complete. You will get Jenkins.war file that we need to execute
+
+ 
+
+Selenium integration with Jenkins
+Selenium integration with Jenkins
+ 
+
+Now let’s navigate to another section
+
+Part 2-How to configure Jenkins for Selenium
+
+Go to the location where Jenkins.war is available. In my case, I kept in my project home directory
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+Step 2- Open Command prompt knows as CMD   and navigate to project home directory and Start Jenkins server
+
+Start- cmd> Project_home_Directory> java -jar Jenkins.war
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+ 
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+ Step 3-
+
+Once Jenkins server is up and running, you will get above success message.
+By default Jenkins runs on 8080 port so you can navigate to below URL for Jenkins UI
+Open any browser and type the URL  http://localhost:8080 
+
+Now Jenkins in up and running so now we have to configure Jenkins so that we can execute our test case via Jenkins.
+
+Step 4-
+
+Once Jenkins is running so we are almost done but before moving to create build we need to configure Jenkins so that Jenkins can identify other tools as well like Java, Maven etc.
+
+Click on > Manage Jenkins
+
+
+Click on Configure System
+
+Here we are telling Jenkins that our java is located at this location so we don’t have to worry about the explicit path.
+
+Navigate to JDK section and Click on Add JDK button
+
+HOMEADVANCE SELENIUMCONTINUOUS INTEGRATION TOOLComplete Guide For Selenium Integration With Jenkins Maven
+Complete Guide for Selenium integration with jenkins Maven
+
+ 
+Jenkins is CI (Continuous Integration) tool which will help you to run test in easy manner, In this post, we will talk about Selenium integration with Jenkins and different usage of the same.
+
+Before starting if you have Eclipse , TestNG and if you are using Excel sheets or CSV File, then these jars should be ready.
+
+ 
+
+Selenium integration with Jenkins using Plain Java project
+
+
+
+ 
+
+ 
+
+   If you are using Maven project and if you want to run maven project using Jenkins then some process will change.
+
+Selenium Integration with Jenkins using Maven project
+
+
+
+We will divide this post into Following section
+
+1- Download Jenkins
+
+2- Configure Jenkins for Running Build
+
+3- Execute Selenium build using Jenkins
+
+4- Schedule Jobs in Jenkins to run periodically
+
+Selenium integration with Jenkins
+
+Part 1- Download Jenkins
+
+Step 1-  Open your web browser and then Navigate to Below URL
+http://jenkins-ci.org  this is the official website of Jenkins
+
+Note- Below post will only work if you work with 1.6 version you can download from below url.
+
+(Download 1.654)
+
+https://updates.jenkins-ci.org/download/war/
+Step 2- Now download Jenkins.war file and save into desktop or any other location depends on your choice
+
+Selenium integration with jenkins
+Run Selenium with Jenkins
+Step 3- Once download complete. You will get Jenkins.war file that we need to execute
+
+ 
+
+Selenium integration with Jenkins
+Selenium integration with Jenkins
+ 
+
+Now let’s navigate to another section
+
+Part 2-How to configure Jenkins for Selenium
+
+Go to the location where Jenkins.war is available. In my case, I kept in my project home directory
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+Step 2- Open Command prompt knows as CMD   and navigate to project home directory and Start Jenkins server
+
+Start- cmd> Project_home_Directory> java -jar Jenkins.war
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+ 
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+ Step 3-
+
+Once Jenkins server is up and running, you will get above success message.
+By default Jenkins runs on 8080 port so you can navigate to below URL for Jenkins UI
+Open any browser and type the URL  http://localhost:8080 
+
+Now Jenkins in up and running so now we have to configure Jenkins so that we can execute our test case via Jenkins.
+
+Step 4-
+
+Once Jenkins is running so we are almost done but before moving to create build we need to configure Jenkins so that Jenkins can identify other tools as well like Java, Maven etc.
+
+Click on > Manage Jenkins
+
+Configure
+Configure
+Click on Configure System
+
+ Selenium integration with jenkins
+
+Selenium integration with Jenkins
+Here we are telling Jenkins that our java is located at this location so we don’t have to worry about the explicit path.
+
+Navigate to JDK section and Click on Add JDK button
+
+ Selenium integration with jenkins
+
+Selenium integration with Jenkins
+Uncheck Install automatically check box so Jenkins will only take java which we have mentioned above.
+
+Give the name as JAVA_HOME and Specify the JDK path
+
+Part 3- Execute Selenium build using Jenkins
+
+We can execute test cases in Jenkins using 4 ways refer the below screenshot
+
+HOMEADVANCE SELENIUMCONTINUOUS INTEGRATION TOOLComplete Guide For Selenium Integration With Jenkins Maven
+Complete Guide for Selenium integration with jenkins Maven
+
+ 
+Jenkins is CI (Continuous Integration) tool which will help you to run test in easy manner, In this post, we will talk about Selenium integration with Jenkins and different usage of the same.
+
+Before starting if you have Eclipse , TestNG and if you are using Excel sheets or CSV File, then these jars should be ready.
+
+ 
+
+Selenium integration with Jenkins using Plain Java project
+
+
+
+ 
+
+ 
+
+   If you are using Maven project and if you want to run maven project using Jenkins then some process will change.
+
+Selenium Integration with Jenkins using Maven project
+
+
+
+We will divide this post into Following section
+
+1- Download Jenkins
+
+2- Configure Jenkins for Running Build
+
+3- Execute Selenium build using Jenkins
+
+4- Schedule Jobs in Jenkins to run periodically
+
+Selenium integration with Jenkins
+
+Part 1- Download Jenkins
+
+Step 1-  Open your web browser and then Navigate to Below URL
+http://jenkins-ci.org  this is the official website of Jenkins
+
+Note- Below post will only work if you work with 1.6 version you can download from below url.
+
+(Download 1.654)
+
+https://updates.jenkins-ci.org/download/war/
+Step 2- Now download Jenkins.war file and save into desktop or any other location depends on your choice
+
+Selenium integration with jenkins
+Run Selenium with Jenkins
+Step 3- Once download complete. You will get Jenkins.war file that we need to execute
+
+ 
+
+Selenium integration with Jenkins
+Selenium integration with Jenkins
+ 
+
+Now let’s navigate to another section
+
+Part 2-How to configure Jenkins for Selenium
+
+Go to the location where Jenkins.war is available. In my case, I kept in my project home directory
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+Step 2- Open Command prompt knows as CMD   and navigate to project home directory and Start Jenkins server
+
+Start- cmd> Project_home_Directory> java -jar Jenkins.war
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+ 
+
+Selenium integration with jenkins
+Selenium integration with Jenkins
+ Step 3-
+
+Once Jenkins server is up and running, you will get above success message.
+By default Jenkins runs on 8080 port so you can navigate to below URL for Jenkins UI
+Open any browser and type the URL  http://localhost:8080 
+
+Now Jenkins in up and running so now we have to configure Jenkins so that we can execute our test case via Jenkins.
+
+Step 4-
+
+Once Jenkins is running so we are almost done but before moving to create build we need to configure Jenkins so that Jenkins can identify other tools as well like Java, Maven etc.
+
+Click on > Manage Jenkins
+
+Configure
+Configure
+Click on Configure System
+
+ Selenium integration with jenkins
+
+Selenium integration with Jenkins
+Here we are telling Jenkins that our java is located at this location so we don’t have to worry about the explicit path.
+
+Navigate to JDK section and Click on Add JDK button
+
+ Selenium integration with jenkins
+
+Selenium integration with Jenkins
+Uncheck Install automatically check box so Jenkins will only take java which we have mentioned above.
+
+ Selenium integration with jenkins
+
+Selenium integration with Jenkins
+Give the name as JAVA_HOME and Specify the JDK path
+
+ Selenium integration with jenkins
+
+In Jenkins, we have a very good feature that you can configure email notification for the user.
+
+ 
+
+This is optional but if you want to configure Email notification then you have to do little setting while configuring Jenkins
+
+Refer below screenshot you can change login details and click on Apply.
+
+ Selenium integration with jenkins
+
+Once done click on save and apply.
+
+Congrats, your Jenkins is configured now.
+
+Part 3- Execute Selenium build using Jenkins
+
+We can execute test cases in Jenkins using 4 ways refer the below screenshot
+
+ Selenium integration with jenkins
+
+In this post, we will execute using Window batch command
+
+ 
+
+Step 1- Create a batch file first then we will add the same batch file to Jenkins
+
+a-To create the batch file we need to set classpath of TestNG so that we can execute testng.xml files
+
+our project structure should look like
+
+b- Open command prompt and set the classpath-
+
+While setting classpath we will set the path of bin folder and libs folder (inside libs we have all libraries)
+
+Home directory > set classpath=C:\Users\Learn-automation\bin;C:\Users\Learn-automation\libs\*;
+
+Note- Please make the changes as per your system
+
+c- Open notepad and type the below command and save as .bat file –
+
+In my case, I have saved as run.bat
+
+java -cp bin;libs/* org.testng.TestNG testng.xml
+
+Step 2-
+
+Create a job in Jenkins which will execute our build
+Open Jenkins on browser (type http://localhost:8080)
+
+a- Click on the new item
+
+ b- Give the Job-Name, select Build a free-style software project and Click on OK  button
+c- Navigate to Advanced Project Options > Check the use custom workspace > in directory we will specify the project home directory
+
+
+d- Important part now specify the Add Build step >Click on Execute Windows batch command
+e-In the section please specify the batch file which we created and click on Apply and save
+
+Step 3- you can finally run the Build > Click on Build now  option
+Step 4- Check Build history and Console output and verify the output
+
+Part 4-Schedule your build in Jenkins for periodic execution
+
+Jenkins comes with very good functionality in which we can schedule jobs which we created
+
+You can schedule build for existing jobs which already created and while creating new project also we can specify the same.
+
+Let’s schedule the job. Refer the below screenshot
+
+Step 1-
+
+Open job which we created now and Click on configure > select the check box build periodically
+
+Step 2-
+
+Specify the time here we need to careful about the syntax
+
+Jenkins works on Cron pattern for more info about cron refer cron link http://en.wikipedia.org/wiki/Cron
+
+Jenkins will accept 5 parameter lets discuss one by one
+
+* * * * *
+
+Here the first parameter- specify minute and range will vary from 0-59
+
+Here the second parameter- specify hours and range will vary from 0-11
+
+Here the third parameter- specify day and range will vary from 0-7 here 0 and 7 will be Sunday
+
+Here the fourth parameter- specify month and range will vary from 1-12
+
+Here the fifth parameter- specify year so here you can specify *
+
+Example 1- if you specify    00 22 * * *  it means your build will run daily @ 10 PM
+
+Example 2- if you specify    50 * * * *  it means your build will run daily  50 min  after every hour
+
+Example 3- if you specify    00 22 1 * *  it means your build will run every Monday @ 10 PM
